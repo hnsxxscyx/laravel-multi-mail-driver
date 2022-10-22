@@ -1,6 +1,6 @@
 <?php
 
-namespace MultipleMailerDriver;
+namespace HNSXXSCYX\MultipleMailerDriver;
 
 use Swift_Mailer;
 use Illuminate\Mail\TransportManager;

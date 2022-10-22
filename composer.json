@@ -20,7 +20,7 @@
 	"minimum-stability": "dev",
 	"autoload": {
 		"psr-4": {
-			"MultipleMailerDriver\\": "src/"
+			"HNSXXSCYX\\MultipleMailerDriver\\": "src/"
 		}
 	}
 }
