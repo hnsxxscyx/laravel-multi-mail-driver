@@ -1,0 +1,26 @@
+{
+	"name": "hnsxxscyx/laravel-multi-mail-driver",
+	"description": "Make Laravel support multiple mail drivers.",
+	"homepage": "https://github.com/hnsxxscyx/laravel-multi-mail-driver",
+	"support": {
+		"issues": "https://github.com/hnsxxscyx/laravel-multi-mail-driver/issues",
+		"source": "https://github.com/hnsxxscyx/laravel-multi-mail-driver"
+	},
+	"require": {
+		"php": ">=5.6.4",
+		"illuminate/mail": "5.6.*"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Oliver Huang",
+			"email": "hnsxxscyx@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"MultipleMailerDriver\\": "src/"
+		}
+	}
+}
