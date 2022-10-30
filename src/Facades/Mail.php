@@ -1,6 +1,6 @@
 <?php
 
-namespace HNSXXSCYX\MultipleMailerDriver\Facades;
+namespace Hnsxxscyx\MultipleMailerDriver\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

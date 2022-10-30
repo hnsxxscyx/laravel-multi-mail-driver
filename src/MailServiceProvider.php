@@ -1,6 +1,6 @@
 <?php
 
-namespace HNSXXSCYX\MultipleMailerDriver;
+namespace Hnsxxscyx\MultipleMailerDriver;
 
 use Illuminate\Mail\MailServiceProvider as BaseMailServiceProvider;
 
